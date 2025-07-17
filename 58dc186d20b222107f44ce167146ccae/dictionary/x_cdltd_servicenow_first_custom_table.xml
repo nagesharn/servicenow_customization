@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="63fc1cad20b222107f44ce167146cc24" label="First Custom Table" max_length="40" name="x_cdltd_servicenow_first_custom_table" type="collection">
+        <element label="Field 1" max_length="40" name="field_1" type="string"/>
+        <element label="Field 2" max_length="40" name="field_2" type="string"/>
+    </element>
+</database>
