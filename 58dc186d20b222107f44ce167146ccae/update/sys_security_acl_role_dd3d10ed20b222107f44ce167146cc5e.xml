@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-07-17 07:41:09</sys_created_on>
+        <sys_id>dd3d10ed20b222107f44ce167146cc5e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_cdltd_servicenow_first_custom_table.x_cdltd_servicenow.first_custom_table_user</sys_name>
+        <sys_package display_value="Servicenow Customizations" source="x_cdltd_servicenow">58dc186d20b222107f44ce167146ccae</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Servicenow Customizations">58dc186d20b222107f44ce167146ccae</sys_scope>
+        <sys_security_acl display_value="x_cdltd_servicenow_first_custom_table">dd3d10ed20b222107f44ce167146cc5b</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_dd3d10ed20b222107f44ce167146cc5e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-07-17 07:41:09</sys_updated_on>
+        <sys_user_role display_value="x_cdltd_servicenow.first_custom_table_user" name="x_cdltd_servicenow.first_custom_table_user">0d3d98ad20b222107f44ce167146ccea</sys_user_role>
+    </sys_security_acl_role>
+</record_update>
